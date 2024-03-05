@@ -49,4 +49,5 @@ public:
         return 1;
     }
 };
+
 #endif

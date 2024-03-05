@@ -16,4 +16,5 @@ public slots:
     void save();
     void open();
 };
+
 #endif

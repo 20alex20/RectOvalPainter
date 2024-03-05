@@ -29,4 +29,5 @@ public slots:
     void csize();
     void ccolor();
 };
+
 #endif
