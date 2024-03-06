@@ -4,6 +4,6 @@
 1. возможность перемещения объектов и изменения их цвета
 2. сохранение текущего положения и цвета объектов в файл и восстановление их из файла
 
-Архитектура проекта в Microsoft Visual Studio:
+Структура проекта в Microsoft Visual Studio:
 
 ![image](https://github.com/20alex20/RectOvalPainter/assets/98091156/ca4abef5-086e-4209-8f55-105042c1dd1f)
